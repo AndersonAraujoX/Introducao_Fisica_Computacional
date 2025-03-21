@@ -2,7 +2,7 @@
 
 Este repositório contém simulações de diversos sistemas físicos implementadas em Fortran. Os projetos abordam desde sistemas aleatórios e métodos numéricos até problemas complexos como o movimento de corpos celestes e o pêndulo caótico.
 
-## Projeto 1: Sistemas Aleatórios
+## Projeto 2: Sistemas Aleatórios
 
 Este projeto explora o comportamento de sistemas aleatórios, como o movimento browniano de bêbados em um plano.
 
@@ -11,7 +11,7 @@ Este projeto explora o comportamento de sistemas aleatórios, como o movimento b
 * **Questão C:** Visualização da difusão de bêbados com o aumento do número de passos
 * **Questão D:** Estudo do aumento da entropia em sistemas com múltiplas partículas e passos.
 
-## Projeto 2: Métodos Numéricos Básicos
+## Projeto 3: Métodos Numéricos Básicos
 
 Este projeto foca na implementação de métodos numéricos para diferenciação e integração.
 
@@ -19,7 +19,7 @@ Este projeto foca na implementação de métodos numéricos para diferenciação
 * **Questão B:** Cálculo de integrais definidas utilizando diferentes métodos de integração numérica (Trapézio, Simpson, Bode) e comparação com o valor analítico.
 * **Questão C:** Implementação dos métodos de Newton-Raphson e da Secante para encontrar raízes de funções.
 
-## Projeto 3: Equações Diferenciais
+## Projeto 4: Equações Diferenciais
 
 Este projeto explora a solução numérica de equações diferenciais ordinárias.
 
@@ -30,7 +30,7 @@ Este projeto explora a solução numérica de equações diferenciais ordinária
 * **Parte E:** Simulação de colisões de um corpo com o solo, incluindo perda de velocidade.
 * **Parte F:** Similar à parte E, mas com a adição de resistência do ar.
 
-## Projeto 4: Movimento Oscilatório
+## Projeto 5: Movimento Oscilatório
 
 Este projeto investiga o movimento harmônico simples e o pêndulo caótico.
 
@@ -43,7 +43,7 @@ Este projeto investiga o movimento harmônico simples e o pêndulo caótico.
 * **Tarefa D:** Análise do espaço de fase do pêndulo.
 * **Tarefa E:** Utilização da seção de Poincaré para analisar o comportamento do pêndulo.
 
-## Projeto 5: Leis de Kepler e o Problema de Três Corpos
+## Projeto 6: Leis de Kepler e o Problema de Três Corpos
 
 Este projeto investiga as leis de Kepler e o problema de três corpos, simulando órbitas planetárias e interações gravitacionais.
 
